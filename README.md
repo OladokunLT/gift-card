@@ -5,6 +5,8 @@ It display gift cards with the name all the currencies the card can be exchange
 
 It's the promotional task to stage1 of Kodecamp react boot camp.
 
+[Click to visit delpoyed page](https://oladokunlt.github.io/gift-card/)
+
 ![Laptop screen view](https://tinyurl.com/y73cejf8)
 
 ![Mobile screen view](https://tinyurl.com/yd9gzmam)
