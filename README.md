@@ -1,7 +1,13 @@
-# Rendering Object and Arrays in React
+# Gift-card project
+## Rendering Object and Arrays in React
 
 It display gift cards with the name all the currencies the card can be exchange
+
 It's the promotional task to stage1 of Kodecamp react boot camp.
+
+![Laptop screen view](https://tinyurl.com/y73cejf8)
+
+![Mobile screen view](https://tinyurl.com/yd9gzmam)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
